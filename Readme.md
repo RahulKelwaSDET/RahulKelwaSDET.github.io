@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://in.linkedin.com/in/rahulkelwa/">
-    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/linkedin.svg" alt="Rahul Kelwa | LinkedIn" width="21px"/>
   </a>
   <a href="https://instagram.com/tech_with_jatin">
     <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>

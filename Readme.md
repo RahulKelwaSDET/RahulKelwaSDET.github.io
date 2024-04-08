@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://in.linkedin.com/in/rahulkelwa/">
-    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
   </a>
   <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
   </a>
 </p>
   

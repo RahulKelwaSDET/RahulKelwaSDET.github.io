@@ -14,38 +14,33 @@
   <a href="https://in.linkedin.com/in/rahulkelwa/">
     <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/linkedin.svg" alt="Rahul Kelwa | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+  <a href="https://www.instagram.com/rahulkelwa_">
+    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/instagram.svg" alt="Rahul  | Instagram" width="21px"/>
   </a>
-  <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+  <a href="https://wa.link/h6j5do">
+    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/whatsapp.png" alt="Rahul | Whatsapp" width="21px"/>
   </a>
 </p>
   
 ## 🥇 Certifications
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-cp.png" alt="Jatin | AWS-CP" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-dev.png" alt="Jatin | AWS-DEV" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-sa.png" alt="Jatin | AWS-SA" width="100 px"/>
-   <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/ocpjp.png" alt="Jatin | AWS-SA" width="100 px"/>
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
-     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/csm.webp" alt="Jatin | AWS-SA" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/ISTQB.png" alt="Rahul | ISTQB" width="100 px"/>
+ 
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
 
 ## 🔭 I'm currently working on
 
-- Microservices Testing Automation Framework
+- Building the Automation framework from ground up.
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
 - Postman Newman Automated Test 
 <p align="center">    
-<img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/postmanproject.jpg" alt="Jatin | Whatsapp" width="500px"/> </p>
+<img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/postmanproject.jpg" alt="Rahul | Whatsapp" width="500px"/> </p>
 
 ## 🌱 I'm currently learning
 
-- I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products. 
+- I am currently exploring the API and Mobile automation with the CI-CD technologies and Docker.
 
 
 ## 🥇 Achievements
@@ -64,15 +59,15 @@ in test coverage</b>
 
 
 ## 💻 Framework WalkThrough
-[![Test Automation Framework Video](https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
+[![Test Automation Framework Video](https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
 
 ## 💻 My Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin99&repo=AutomationFramework)](https://github.com/jatin99/AutomationFramework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulKelwaSDET&repo=DemoblaseSelenium)](https://github.com/RahulKelwaSDET/DemoblaseSelenium)
 
-[Automated Regression Testing Framework Java](https://github.com/jatin99/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
+[Automated Regression Testing Framework Java](https://github.com/RahulKelwaSDET/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
 
-[Automated Regression Testing Framework Python](https://github.com/jatin99/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
+
 
 
 ## 💼 Technical Skills
@@ -103,13 +98,13 @@ in test coverage</b>
 
 <p align="center">
   <a href="https://in.linkedin.com/in/rahulkelwa/">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
   </a>
   <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+    <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
   </a>
 </p>
   

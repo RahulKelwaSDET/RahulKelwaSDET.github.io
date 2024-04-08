@@ -89,7 +89,7 @@ in test coverage</b>
 
 ## 📈 GitHub Stats 
 
-[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatin99)](https://github.com/jatin99)
+[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=RahulKelwaSDET)](https://github.com/RahulKelwaSDET)
 
 
 ## Contact

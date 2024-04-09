@@ -40,7 +40,7 @@
 
 ## 🌱 I'm currently learning
 
-- I am currently exploring the API and Mobile automation with the CI-CD technologies and Docker.
+- I am currently exploring the API and Mobile automation with the CI-CD tools and Jenkins and Docker.
 
 
 ## 🥇 Achievements

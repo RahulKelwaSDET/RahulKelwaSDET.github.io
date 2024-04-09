@@ -32,15 +32,15 @@
 
 ## 🔭 I'm currently working on
 
-- Working on Jenkins and Docker.
+- Microservices Testing Automation Framework
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
-- Working on Katalon Studio.
+- Working on UI Automation.
 <!-- <p align="center">    
 <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/postmanproject.jpg" alt="Rahul | Whatsapp" width="500px"/> </p> -->
 
 ## 🌱 I'm currently learning
 
-- I am currently exploring the API and Mobile automation with the CI-CD tools and Jenkins and Docker.
+- I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products.
 
 
 ## 🥇 Achievements

@@ -40,7 +40,7 @@
 
 ## 🌱 I'm currently learning
 
-- I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products.
+- I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products. 
 
 
 ## 🥇 Achievements

@@ -32,9 +32,9 @@
 
 ## 🔭 I'm currently working on
 
-- Building the Automation framework from ground up.
+- Working on Jenkins and Docker.
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
-- Postman Newman Automated Test 
+- Working on Katalon Studio.
 <!-- <p align="center">    
 <img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/postmanproject.jpg" alt="Rahul | Whatsapp" width="500px"/> </p> -->
 

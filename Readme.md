@@ -35,8 +35,8 @@
 - Building the Automation framework from ground up.
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
 - Postman Newman Automated Test 
-<p align="center">    
-<img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/postmanproject.jpg" alt="Rahul | Whatsapp" width="500px"/> </p>
+<!-- <p align="center">    
+<img src="https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/postmanproject.jpg" alt="Rahul | Whatsapp" width="500px"/> </p> -->
 
 ## 🌱 I'm currently learning
 

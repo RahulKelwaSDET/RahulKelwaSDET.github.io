@@ -45,21 +45,18 @@
 
 ## 🥇 Achievements
 
--Implemented thorough manual testing strategies for the application, ensuring
-seamless user experience and functionality across various devices which gave
-<b>20% improvement in overall software stability and performance</b>
+-Designed automation framework from ground up and completed automation scripts in stipulated timelines.
+<b>30% improvement in overall software stability and performance</b>
 
--Guided and trained 5 Junior QA team members on test automation best practices,
-resulting in a  <b>40% decrease in test execution time and a 25% increase in test
-coverage </b>
+-Back-End Testing Initiative Pioneer,resulting in a<b> improved system robustness through comprehensive API and database testing. </b>
 
 -Engineered automation scripts using Selenium and Java to increase testing
 efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
 in test coverage</b>
 
 
-## 💻 Framework WalkThrough
-[![Test Automation Framework Video](https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
+<!-- ## 💻 Framework WalkThrough
+[![Test Automation Framework Video](https://raw.githubusercontent.com/RahulKelwaSDET/RahulKelwaSDET.github.io/master/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw) -->
 
 ## 💻 My Projects 
 

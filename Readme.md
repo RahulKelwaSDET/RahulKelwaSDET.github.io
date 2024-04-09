@@ -45,8 +45,8 @@
 
 ## 🥇 Achievements
 
--Designed automation framework from ground up and completed automation scripts in stipulated timelines.
-<b>30% improvement in overall software stability and performance</b>
+-Implemented thorough manual testing strategies for the application, ensuring seamless user experience and functionality across various devices which gave
+<b>20% improvement in overall software stability and performance</b>
 
 -Back-End Testing Initiative Pioneer,resulting in a<b> improved system robustness through comprehensive API and database testing. </b>
 

@@ -90,7 +90,7 @@ in test coverage</b>
 
 ## Contact
 
-<p align="center">I'm open to new opportunities<a href="mailto:rahulkelwa078@gmail.com">rahulkelwa078@gmail.com</a> or connect with me on <a href="https://in.linkedin.com/in/rahulkelwa">LinkedIn</a></p>
+<p align="center">I'm open to new opportunities. Feel free to reach out to me via email at<a href="mailto:rahulkelwa078@gmail.com">rahulkelwa078@gmail.com</a> or connect with me on <a href="https://in.linkedin.com/in/rahulkelwa">LinkedIn</a></p>
 
 <p align="center">
   <a href="https://in.linkedin.com/in/rahulkelwa/">
